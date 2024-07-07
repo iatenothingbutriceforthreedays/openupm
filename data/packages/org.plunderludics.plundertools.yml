@@ -1,0 +1,16 @@
+name: org.plunderludics.plundertools
+displayName: Plunderludics.Plundertools
+description: tools for making games with emulated games using unity-hawk
+repoUrl: https://github.com/plunderludics/plundertools
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - utilities
+hunter: plunderludics
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:readme.md
+createdAt: 1720377766554
